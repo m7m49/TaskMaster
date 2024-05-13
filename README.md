@@ -14,7 +14,7 @@ In addition to the login and registration pages.
 ## The Used Technologies
 - Front-end: Tailwind (HTML, CSS, and JavaScript).
 - Back-end: Laravel (PHP).
-- database: MySql.
+- database: MySQL.
 
 ## Screenshots from the website
 
